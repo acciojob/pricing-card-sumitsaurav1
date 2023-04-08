@@ -1,1 +1,16 @@
 /*  your css code here. If applicable */
+.card-container{
+	background-color:gray;
+	display:flex;
+	flex-direction:column;
+	align-items:center;
+	padding:15px;
+	text-align:center;
+}
+.card-container button {
+	background-color:red;
+	border:none;
+	padding:10px;
+	color:white;
+	border-radius:5px
+}
